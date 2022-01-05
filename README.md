@@ -33,7 +33,27 @@
 
 ## ScreenShots
 
+* Home
 
+  <a href="https://github.com/mertguven/top_news">
+    <img src="screenshots/home.png" alt="home" width="30%">
+  </a>
+* Listening
+
+  <a href="https://github.com/mertguven/top_news">
+    <img src="screenshots/listening.png" alt="listening" width="30%">
+  </a>
+* Done
+
+  <a href="https://github.com/mertguven/top_news">
+    <img src="screenshots/done.png" alt="done" width="30%">
+  </a>
+* News
+
+  <a href="https://github.com/mertguven/top_news">
+    <img src="screenshots/news.png" alt="news" width="30%">
+  </a>
+  
 
 
 <div id="license"></div>
